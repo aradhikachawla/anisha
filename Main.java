@@ -12,6 +12,8 @@ public static class Main {
     new Movie("Pulp Fiction", "DVD", 8.8),
     new Movie("The Lord of the Rings: The Fellowship of the Ring", "DVD", 8.8)
         
-        System.out.println("Anisha changed");
+    System.out.println("Anisha changed");
+    System.out.println("Aradhika  changed");
+
 }
 
